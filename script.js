@@ -7,7 +7,7 @@ function validateConfig() {
 
     // Check required fields
         warnings.push("Valentine's name is not set! Using default.");
-        config.valentineName = "My Chrushiecakes";
+    
     
 
     // Validate colors
